@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+// UT Dallas colors, matching the lab website (siteklab.github.io assets/css/main.scss).
+// #e87500 is UTD Orange (5.3:1 on darkly's #222 background).
+$primary: #e87500;
+$link-color: #e87500;
+$footer-bg: #154734; // UTD Green
+$footer-fg: #ffffff;
+
+/*-- scss:rules --*/
+.nav-footer a {
+  color: #5fe0b7; // silverleaf, 6.5:1 on UTD Green
+}
