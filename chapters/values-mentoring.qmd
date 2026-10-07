@@ -1,0 +1,18 @@
+# Lab Values & Mentoring Philosophy
+
+**Mission.** Understand how the human brain—especially subcortical structures often left out of standard fMRI—supports speech and auditory communication, using careful neuroimaging (3T and 7T MRI, functional imaging and diffusion tractography) paired with rigorous behavioral science, and communicate that work honestly, openly, and generously.
+
+**Core values**
+
+- **Rigor over speed.** A slower, correct answer beats a fast, wrong one. We'd rather kill a result in the lab than have someone else kill it after publication.
+- **Kindness and directness aren't in tension.** Feedback is honest and specific; it's also delivered like you're talking to someone you want to see succeed.
+- **Open science by default.** Preregister hypothesis-driven research, share code and data, post preprints, and publish open access whenever possible. See [Research Practices & Open Science](open-science.qmd).
+- **Sustainable pace.** This is a marathon. Burnout produces worse science than a well-rested person working fewer hours.
+- **Curiosity beyond your own project.** Read broadly, ask questions in lab meeting, and help each other. The lab is a community, and we're stronger when we all work together.
+
+**Mentoring philosophy.** Different people want different things from a research experience, a PhD, or a postdoc. My job is to help you get where *you* want to go, not to clone myself. In practice that means:
+
+- Regular 1:1s (see [Communication & Meetings](communication.qmd)) where your goals, not just your data, are on the agenda.
+- Borrowing a distinction from Peelle's lab manual: I try to hold the *big picture* — grant strategy, lab direction, how your project fits the field — while you own the *small picture*, the day-to-day of your own project, with as much or as little hands-on support as you need and ask for.
+- Independence that grows over time and is explicit, not assumed. We'll talk about what "ready to run your own study" or "ready to submit without me editing every line" looks like for you specifically.
+- Expectations that scale with career stage. An undergraduate exploring research, a PhD student building expertise, and a postdoc launching an independent program are being mentored toward different things. Role-specific detail is in [Roles & Mutual Expectations](roles-expectations.qmd).

@@ -1,0 +1,6 @@
+# Offboarding
+
+- A short knowledge-transfer document: what you were working on, where the data and code live, what's still open.
+- Hand off ongoing projects and make sure authorship/contribution is recorded accurately before memories fade.
+- Institutional access (accounts, keys, systems) is returned/removed per the [data-security policy](data-management.qmd) — this is routine, not a sign of distrust, and doesn't end an active collaboration or co-authorship.
+- An honest exit conversation about what worked and what didn't. This feedback helps this handbook get better over time.

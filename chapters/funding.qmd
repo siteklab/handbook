@@ -1,0 +1,9 @@
+# Sources of Funding
+
+Knowing what's funding the lab, and for how long, matters for planning projects, travel, and your own position. It is the PI's responsibility to ensure that  the lab is adequately funded to conduct research and support lab members' development. In many cases, it can be beneficial for lab members to seek their own funding.
+
+| Funding Source / Mechanism | Key Personnel | Timeline |
+| --- | --- | --- |
+| UT Dallas startup funds | Kevin Sitek (PI) | 2027 – 2031 |
+| NIDCD R21DC022906 — Early Career Research Award | Kevin Sitek (PI) | 2026 – 2028 |
+| NIDCD K01DC019421 — Mentored Career Development Award | Kevin Sitek (PI) | 2022 – 2027 |

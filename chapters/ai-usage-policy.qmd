@@ -1,0 +1,14 @@
+# AI Usage Policy
+
+AI tools (large language models, coding assistants, and the like) are fine to use in this lab, with a few ground rules:
+
+- **Use them to help you do things you already know how to do**, faster or more clearly, not as a substitute for learning the skill in the first place. If you can't explain or defend a line of code, a statistical choice, or a paragraph without the tool's help, you're not ready to lean on it there yet.
+- **They don't replace your own learning process.** Struggling through a new analysis method, or writing your first real Methods section, is how you build the judgment you'll need for the rest of your career. Don't skip that step just because a tool can produce something that looks right.
+- **Be open about when and how you used one.** Say so in lab meeting, in a code comment, in a manuscript acknowledgment—wherever it's relevant. There's no penalty for disclosing it; hiding it is what undermines trust.
+- **You are ultimately responsible for everything you present.** A wrong number, a hallucinated citation, a subtly broken analysis, or a plagiarized sentence is yours to own even if a tool produced it. "The AI did it" is not a defense in lab meeting, in a manuscript, or to an IRB.
+
+This is just a starting point—expect it to get more specific as norms in the field settle and as we hit real cases together (e.g., journal-by-journal disclosure rules, what's fine for code versus writing versus figures).
+
+## AI usage statement
+
+In adherence to the lab's AI Usage policy (see above), a large language model (here, Claude Sonnet 5) was used to develop a first draft of this lab handbook after Dr. Sitek provided it with example handbooks—in particular, Peelle's and Poldrack's. Dr. Sitek continued using Claude in a back-and-forth to further develop the notebook. Dr. Sitek approved and is responsible for all content in the original public version of this handbook. Dr. Sitek fully wrote this statement.

@@ -1,0 +1,16 @@
+# Safety & Emergencies
+
+*(draft — contacts and procedures below get filled in as we confirm our building, MRI site, and UT Dallas police/EHS contacts closer to launch)*
+
+In a life-threatening emergency, call 911 (or campus police) first — then let the lab know what happened once things are stable. This is separate from the safety training checklist item in onboarding: that's about getting trained before you start; this is about knowing who to call and what to do if something goes wrong.
+
+| Contact | Name | How to reach |
+| --- | --- | --- |
+| Lab safety contact (PI) | Kevin Sitek | kevin.sitek@utdallas.edu |
+| Center for Brain Health MRI safety contact | *TBD* | *TBD* |
+| UTSW MRI safety contact | *TBD* | *TBD* |
+| Callier Center (Dallas) facilities | *TBD* | *TBD* |
+| Campus police / emergency | UT Dallas Police | 911, or non-emergency line *TBD* |
+
+- **Incident reporting.** Any injury, near-miss, equipment failure, or participant adverse event gets reported to me as soon as it's safe to do so, and logged (process *TBD*) — separate from any IRB adverse-event reporting a protocol requires.
+- **Building & MRI-specific procedures.** Evacuation routes, fire procedure, what to do for a medical emergency mid-scan, and the MRI suite's metal-safety zone protocol will be added here once we're on-site and trained on our specific facility — don't treat this section as complete until those are filled in.

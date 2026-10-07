@@ -1,0 +1,11 @@
+# Communication & Meetings
+
+- **1:1s.** Weekly for students and postdocs early on, moving to biweekly as you gain independence, on a standing agenda you help set — not just status updates, but also career goals and anything that's stuck.
+- **Lab meeting.** Weekly, rotating between data updates, journal club, and [practice talks ahead of conferences](conferences.qmd) or committee meetings. Everyone presents; everyone gives feedback.
+- **Tools:**
+  - Slack (or equivalent) for day-to-day chatter and quick questions.
+  - Email for anything that needs an institutional paper trail (IRB, HR, scheduling with people outside the lab).
+  - Shared calendar for scanner time, meetings, and time off.
+  - The lab GitHub org / wiki for documentation — protocols, code, this handbook's mirror.
+- **Response-time norm.** Unless otherwise noted, you should expect me to respond within 1 working day. There is no expectation of evening or weekend replies for anyone in the lab. If I message outside working hours, it's because it's convenient for me to write it then, not a request for an immediate answer.
+- **Door open.** Standing office hours plus an open-door policy for anything urgent — you should never feel like you have to wait a week to flag a problem.

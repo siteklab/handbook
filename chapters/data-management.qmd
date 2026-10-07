@@ -1,0 +1,8 @@
+# Data Management & Security
+
+- **Storage.** Raw MRI and behavioral data live on secure institutional storage—never on personal laptops or consumer cloud drives as the only copy. Automated, redundant backups (aim for the 3-2-1 rule: three copies, two media types, one off-site).
+- **Participant data.** De-identify per the governing IRB protocol; treat any data linked to a clinical or vulnerable population with HIPAA-adjacent care. Access limited to people actually approved on that protocol.
+- **Computing.** Lab GitHub org, private by default during a project and made public at publication (consistent with the [open-science policy](open-science.qmd)). HPC/computing cluster account for anyone whose analysis needs it. Standardized directory and naming conventions—typically BIDS—so any project folder is legible to someone who wasn't there when it was created.
+- **Accounts.** UT Dallas NetID, lab shared drive, and GitHub org invitation are part of onboarding (see the [Onboarding Checklist](onboarding.qmd)), not something you request months in.
+- **Retention.** Keep data and code as long as the funder, journal, and IRB require, at minimum — and document *why* something was excluded or deleted, not just that it was.
+- **IRB submission steps live elsewhere.** The step-by-step for submitting or amending a protocol is in the lab protocols repo (link *TBD*), since it changes with UT Dallas's IRB portal and process, not with lab policy.

@@ -1,0 +1,7 @@
+# Authorship & Publications
+
+- **Criteria.** We follow ICMJE-style criteria: substantial contribution to conception/design or analysis/interpretation, drafting or critically revising the manuscript, final approval of the version submitted, and accountability for the work. All four, not just one.
+- **Decide early, revisit if things change.** Authorship and rough order should be discussed at the *start* of a project, not the week before submission — and revisited honestly if someone's role grows or shrinks along the way.
+- **Ordering, as a starting point.** First author is generally whoever did the work and wrote the paper; the PI is typically last/corresponding author. Middle authorship reflects real, substantial contribution — not just "was in the lab at the time."
+- **Manuscript workflow.** Internal lab read/feedback pass before external submission. Every co-author signs off on the final version before it goes out — silence isn't consent. Preprint policy: post at or before submission unless a specific journal or funder rule says otherwise.
+- **Conference presentations.** First authors present their own work whenever possible. Do a practice run at lab meeting before any conference talk or poster (see [Conference Attendance](conferences.qmd)).

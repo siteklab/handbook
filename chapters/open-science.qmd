@@ -1,0 +1,11 @@
+# Research Practices & Open Science
+
+This section owes a lot to Russ Poldrack's writing and lab manual on reproducible neuroscience, and to Peelle's framing of "open, accurate, and reproducible science."
+
+- **Plan before you collect.** Think about statistical power and your analysis plan before scanning or testing begins, not after. Preregister confirmatory hypotheses (OSF or equivalent) before data collection where the design allows it.
+- **Pilot before you commit scanner time.** Scanner hours and participant recruitment are expensive; a short pilot that catches a bad parameter choice saves everyone weeks.
+- **Reproducibility by default.** Analysis code is version-controlled (git/GitHub) from day one, not cleaned up after the fact. Imaging data organized in BIDS format. Every project folder has a README that would let a stranger (or you, in two years) rerun the pipeline.
+- **Open science.** Preprint at or before submission. Share de-identified data and analysis code at publication, consistent with NIH data-sharing expectations and what participants actually consented to — "we'll share it if asked" is not the same as sharing it.
+- **Lab notebook.** Every project keeps an electronic lab notebook (format TBD — candidates: GitHub issues/wiki, OSF, or a shared notebook tool) recording what was done and why, not just what the results were.
+- **Scientific integrity is non-negotiable.** Fabrication, falsification, and plagiarism end your place in this lab, full stop. Honest mistakes and negative results are not failures — hiding them is.
+- **Protocols live elsewhere.** Naming conventions, software versions/defaults, and analysis pipeline conventions are documented in a separate lab protocols repo (link *TBD*), not this handbook — this covers expectations and policy, protocols cover the how-to, and they'll drift out of sync if we try to maintain both in one place.

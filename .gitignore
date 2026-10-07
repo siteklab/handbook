@@ -1,0 +1,11 @@
+docs/
+.quarto/
+/.luarc.json
+.DS_Store
+
+# local working notes; not part of the public handbook
+PLAN.md
+handbook-source.md
+
+/.quarto/
+**/*.quarto_ipynb

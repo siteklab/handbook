@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: docs
+  render:
+    - index.qmd
+    - "chapters/*.qmd"
+
+book:
+  title: "Speech and Hearing Pathways Lab Handbook"
+  subtitle: "UT Dallas — Dept. of Speech, Language, and Hearing"
+  author: "Kevin R. Sitek"
+  date: today
+  site-url: https://siteklab.github.io/handbook/
+  repo-url: https://github.com/siteklab/handbook
+  repo-actions: [edit, issue]
+  sidebar:
+    collapse-level: 1
+    tools:
+      - icon: house
+        href: https://siteklab.github.io
+        text: Lab website
+  page-footer:
+    left: "This is a living document — propose a change via pull request or lab meeting."
+  chapters:
+    - index.qmd
+    - part: "Our Lab"
+      chapters:
+        - chapters/values-mentoring.qmd
+        - chapters/roles-expectations.qmd
+        - chapters/conduct-wellbeing.qmd
+    - part: "Getting Started"
+      chapters:
+        - chapters/onboarding.qmd
+        - chapters/safety-emergencies.qmd
+        - chapters/communication.qmd
+        - chapters/logistics.qmd
+    - part: "Money"
+      chapters:
+        - chapters/funding.qmd
+        - chapters/purchasing-reimbursement.qmd
+    - part: "Doing Research"
+      chapters:
+        - chapters/open-science.qmd
+        - chapters/data-management.qmd
+        - chapters/ai-usage-policy.qmd
+        - chapters/authorship.qmd
+        - chapters/conferences.qmd
+    - part: "Moving On"
+      chapters:
+        - chapters/career-development.qmd
+        - chapters/offboarding.qmd
+  appendices:
+    - chapters/maintenance.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    respect-user-color-scheme: true
+    toc: true
+    number-sections: false
+    search: true

@@ -1,0 +1,9 @@
+# Day-to-Day Logistics
+
+*(several items below are marked TBD — they depend on our building assignment and scanner access at UT Dallas, confirmed closer to January 2027)*
+
+- **Hours & flexibility.** We'll set core overlap hours for meetings. Due to the geographic dispersion of our lab's academic and research activities, it is unlikely for anyone to be at their desk in the lab the whole week. To the greatest extent possible, being in the lab when possible is encouraged to build and maintain a healthy, enjoyable lab community.
+- **Time off.** Take it. Put it on the shared calendar and give reasonable notice; you don't need to justify a vacation.
+- **Funding, payroll, timesheets.** Graduate students are typically paid via GRA appointments through BBS; hourly undergraduates log timesheets by the university's posted deadlines. [Conference/travel funding](conferences.qmd) is available — ask early, and first-author presenters are prioritized when funds are tight.
+- **Space & equipment.** Lab space (Callier Center / BBS building, exact room *TBD*), scanner access and booking process *TBD*, equipment checkout log to be set up before launch.
+- **University policies.** Everyone in the lab is expected to know and follow UT Dallas's own employee/student conduct, safety, and research-compliance policies — this handbook adds to those, it doesn't replace them.

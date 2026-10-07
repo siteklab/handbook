@@ -1,0 +1,27 @@
+# Roles & Mutual Expectations
+
+**Roles.** The lab is expected to include, at various points: PI, postdoctoral researchers, PhD students, lab manager, staff research assistants (RAs), undergraduate RAs, and occasional rotation or visiting students. Titles matter less than the expectations attached to them.
+
+**What the lab commits to you**
+
+- Mentorship tailored to your goals, with regular 1:1 meetings.
+- Timely, substantive feedback on your work.
+- Support to present your work: conference travel funding, practice talks, and help finding the right venue.
+- Authorship and credit consistent with the policy in [Authorship & Publications](authorship.qmd), decided early and revisited if things change.
+- A psychologically safe environment where you can disagree with me (or others), admit a mistake, or say you're stuck without it costing you.
+- Active help finding your next position, whatever that is.
+
+**What we ask of you**
+
+- Intellectual honesty and rigor, especially when a result doesn't do what you hoped.
+- Show up for lab meeting and lab community events, and engage when you're there.
+- Communicate proactively: tell me you're stuck or behind *before* it becomes a crisis, not after.
+- Treat shared space, shared equipment, and other people's time with respect.
+- Keep growing the technical skills your role needs (imaging analysis, statistics, programming)—we'll support this, but it's on you to put in the work.
+
+**Role-specific notes** *(draft — will refine with first lab members)*
+
+- **Undergraduate RAs:** a minimum weekly-hour commitment agreed at the start of each semester; a real project or role, not just data entry.
+- **Research staff (lab manager & RAs):** develop the required skills to perform the research roles that are expected of you, with an eye toward further development based on your own interests and expertise. To that end, we expect an individual development plan drafted together within your first three months, revisited at least yearly.
+- **PhD students:** milestones track the Department of Speech, Language, and Hearing / BBS graduate program requirements; we'll map those onto a personal timeline in your first semester.
+- **Postdocs:** an individual development plan drafted together within your first three months, revisited at least yearly.

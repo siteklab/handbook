@@ -1,0 +1,8 @@
+# Conference Attendance
+
+Conferences are where you learn what's actually happening in the field before it shows up in print, and where you start building the professional network that matters for the rest of your career — helping with that introduction is part of my job as PI, not something you're expected to do entirely on your own.
+
+- **Expectation.** If you're submitting as a first author, plan on attending 1–2 conferences a year. Attending without presenting is up to the discretion of the PI, but first-author presenters are prioritized when travel funds are limited (see [Day-to-Day Logistics](logistics.qmd)).
+- **Plan early.** Abstract deadlines, travel funding, and (for international travel) visas all take lead time — start planning 6–12 months out, not the month before.
+- **Practice first.** Any conference talk or poster gets a practice run at lab meeting before you go (see [Authorship & Publications](authorship.qmd)).
+- **Use it to network, not just present.** Introduce yourself to people whose work you cite, sit in on talks outside your immediate subfield, and tell me who you'd like to meet — I can often make an introduction. And get to know other students/postdocs—it's great to have a national/international cohort, and you never know where your own collaborations (and friendships) will come from!

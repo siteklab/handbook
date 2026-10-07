@@ -1,0 +1,11 @@
+# Welcome & Purpose
+
+This handbook is the operating manual for the Speech and Hearing Pathways Lab at UT Dallas — what we study, how we work together, and what everyone (PI included) can expect from everyone else. It exists so norms live somewhere other than my head, so new members don't have to guess what to expect of the lab and what's expected of them, and so we have something concrete to point to when we disagree about how something should work.
+
+It is explicitly a *living* document, not a contract carved in stone. The lab writes it together: anyone can propose an edit (see [How This Handbook Is Maintained](chapters/maintenance.qmd) at the end), and it should read differently in two years than it does today. Jonathan Peelle, whose own openly posted lab manual partly inspired this one, put it well: a lab manual that never changes is a lab manual nobody is actually using.
+
+I started at UT Dallas in the Department of Speech, Language, and Hearing (School of Behavioral and Brain Sciences) in January 2027, and I'd rather set expectations in writing from day one than improvise them under deadline pressure later. Sections marked *(draft — will refine with first lab members)* are my best starting guess and the most likely to change once real people are working here.
+
+**What we study:** the Speech and Hearing Pathways Lab investigates how subcortical structures in the human brain support speech and auditory communication, using high-field (7T) and 3T MRI, scalp-recorded electroencephalography (EEG), and other human neuroimaging and behavioral methods.
+
+This handbook draws on publicly posted lab manuals from Jonathan Peelle, Russ Poldrack, and others in the open-science and cognitive neuroscience community. Full sources are listed at the end, in [How This Handbook Is Maintained](chapters/maintenance.qmd).

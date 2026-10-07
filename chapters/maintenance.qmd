@@ -1,0 +1,25 @@
+# How This Handbook Is Maintained
+
+**Who can edit it.** Once the lab exists, everyone in it can propose a change. We'll formally review it together once or twice a year (e.g., the start of each semester) and informally whenever something in here stops matching reality.
+
+**Where it lives.**
+
+- **Right now (pre-launch).** This document — easy to draft and revise solo before the lab exists, and easy to share by link with mentors and colleagues for feedback.
+- **Once the lab launches.** Mirror it as a public site on GitHub Pages, built with a tool like Quarto or R's bookdown — the same approach Russ Poldrack's and Candice Morey's lab manuals use. Advantages: free hosting; real version history (a genuine changelog of who changed what and when, not just "final\_v3.docx"); members propose edits via pull request, which doubles as practice with the git workflow everyone's learning for code and data anyway; and it's linkable for prospective students who want to know what the lab is actually like before they apply — which is exactly why Peelle and Poldrack post theirs publicly in the first place.
+- **What stays private.** Day-to-day operational details that change often and aren't useful to the public — equipment passwords, specific scheduling links, personal contact info — belong in a lab-internal wiki (Notion, or a private page in the GitHub repo), linked from here rather than written into the public handbook.
+
+| Option | Good for | Tradeoff |
+| --- | --- | --- |
+| GitHub Pages (Quarto/bookdown) | Public values & policies; real version history; PR-based editing | Needs basic git comfort; awkward for private logistics |
+| Notion | Fast, WYSIWYG editing; good internal day-to-day wiki | No real version control; not public by default |
+| Google Doc | Zero setup, familiar, easy commenting | No real navigation for a long doc; messy history |
+| Lab/department website | Sits alongside the lab's public presence | Limited by what platform UT Dallas's site runs on |
+
+**Recommended split:** public handbook (this content) on GitHub Pages once the lab has a GitHub org and website, plus a private lab wiki (Notion, Sharepoint, or a private repo) for logistics that change often or shouldn't be public.
+
+**FAQ**
+
+- *I disagree with something in here.* Bring it to lab meeting or a 1:1 — this is meant to be negotiated, not imposed from above.
+- *This doesn't cover my situation.* Ask about it. Gaps get added; that's the whole point of a living document.
+
+**Sources this handbook drew on.** Jonathan Peelle's lab manual and blog post on maintaining one; Russ Poldrack's online lab manual and mentoring philosophy; the Aging Well Lab's "Expectations and Responsibilities" chapter; and the crowdsourced list of publicly posted lab handbooks maintained at github.com/samuelmehr/labhandbooks, among other openly shared examples from the neuroscience and open-science community.

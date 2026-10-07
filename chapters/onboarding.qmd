@@ -1,0 +1,26 @@
+# Onboarding Checklist
+
+*(draft — will firm up once we know our building, IRB protocol numbers, and scanner access at UT Dallas)*
+
+**First week**
+
+- [ ] Building/lab space orientation; keys or badge access
+- [ ] UT Dallas NetID and required IT accounts set up
+- [ ] Added to lab Slack, email list, and shared calendar
+- [ ] MRI/lab safety training scheduled (if your role involves scanning)
+- [ ] One-on-one with every current lab member, not just the PI
+
+**First month**
+
+- [ ] CITI human-subjects research training completed
+- [ ] Added to relevant IRB protocol(s) once trained
+- [ ] Lab GitHub org access granted; analysis environment set up (see [Data Management & Security](data-management.qmd))
+- [ ] HPC / computing cluster account requested, if needed for your project
+- [ ] Read 3–5 foundational lab papers (list maintained separately)
+- [ ] Give a short "who I am / what I'm interested in" lab meeting talk
+
+**First three months**
+
+- [ ] Draft an individual development plan / research plan with the PI
+- [ ] Identify a first small, well-scoped project or contribution
+- [ ] Understand the authorship and data-management policies well enough to explain them back
